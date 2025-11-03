@@ -16,3 +16,5 @@ The data is de-anonymized and only includes variables relevant to the analysis p
 
 
 *After conducting Experiment III and publicly posting our data and materials, we realized there had been an unintentional non-random pattern in the Experiment III stimuli. The first 7 days in the Final Phase had identical feature values, algorithm predictions and true demand outcomes as the final 7 days in the Practice Phase. We do not believe this interfered with our results. First, this overlap occurred for all participants across all conditions. There was no differential effect by condition, and thus no reason to expect that this overlap affected some participants more than others. Second, our results held even when removing the first 7 days in the Final Phase. More details are available in our supplementary material: https://researchbox.org/3999
+
+*Clarification Update 11/3/2025: the first 15 values of task_x_vals in the Experiment I data correspond to the Practice Stage, and values 21 through 40 (20 total values) correspond to the Final Stage.
